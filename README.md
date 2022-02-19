@@ -1,1 +1,2 @@
-This is super super cool!!
+This is my first readme
+It is so good
